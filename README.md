@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Princess Sena`
+- **CCID:** `psena`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.youtube.com/watch?v=gtxWnkUPhwU
+https://kotlinlang.org/api/compose-multiplatform/material3/androidx.compose.material3/-alert-dialog.html
 
 ## Verbal Collaboration
 
